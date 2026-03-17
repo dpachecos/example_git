@@ -1,3 +1,3 @@
 print('Adiós mundo')
-print("Caída de una bomba que nos mate a todos sin dolor")
+print('Mejor que no se acabe el mundo, jubilemos con sueldo universal')
 print('FIN')
