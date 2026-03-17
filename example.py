@@ -1,3 +1,2 @@
-print('Adiós mundo')
-print("Caída de una bomba que nos mate a todos sin dolor")
-print('FIN')
+print('Bienvenidos a todos')
+print('Saludos')
